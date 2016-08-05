@@ -1,4 +1,4 @@
-# Logic Puzzles
+# Code Challenges
 
 * [Random Writer](https://github.com/alexgriff/random_writer)
 * [The Monty Hall Problem](https://docs.google.com/document/d/1_d2y5ze_X2szf1Sg-Q2WFDf-8ux1dy9G33ZWx8kPQOQ/edit?usp=sharing)
