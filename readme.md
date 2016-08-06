@@ -9,4 +9,4 @@
 # Other
 
 * [Sorting Algorithms Explained](https://betterexplained.com/articles/sorting-algorithms/)
-* [Visualising Data Structures And Algorithms](http://visualgo.net/)
+* [Visualising Data Structures And Algorithms](http://visualgo.net/) - <sup>credit for link: Joe Cutler</sup>
